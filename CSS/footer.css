@@ -1,0 +1,22 @@
+.dio-logo{
+    margin-top: 51px;
+    align-items: center;
+}
+
+.acesse{
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    
+}
+
+#dio-site{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+    color: rgba(51, 168, 219, 1)
+}

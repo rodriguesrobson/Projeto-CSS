@@ -1,0 +1,34 @@
+
+#transform-world{
+    background-image: url(../assets/images/woman-code.png);
+    
+    left: 0px;
+    top: -250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    width: auto;
+    align-items: center;
+
+    border-bottom: 1px solid #33A8DB;
+}
+
+#transforme{
+    font-weight: 244px;
+    left: 0px;
+    top: 0px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 47px;
+    align-items: 5%;
+    color: #FFFFFF;
+    max-width: 35rem;
+    margin-left: 5px;
+    margin-right: 20px;
+    padding-top: 250px;
+    text-shadow: 3px 2px 0px #33A8DB;;
+}

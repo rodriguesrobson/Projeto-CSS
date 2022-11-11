@@ -1,0 +1,49 @@
+#course-content{   
+    padding: 62px;
+    color:  white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-bottom: 1px solid #33A8DB;
+    align-items: center;   
+}
+#aprender{
+    margin-top: 56px;
+    margin-bottom: 24px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: 0.19em;
+    color: rgba(51, 168, 219, 1);
+}
+.modules{
+  width: 792px;
+  height: 38px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-bottom: 24px;
+}
+.space{
+    margin-bottom: 40px;
+}
+.module{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 535px;
+    height: 51px;
+    background: #252525;
+    border: 1px solid #33A8DB;
+    box-shadow: inset -2px 6px 4px rgba(0, 0, 0, 0.4);
+    border-radius: 57px;
+    margin-bottom: 25px;
+
+}

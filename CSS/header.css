@@ -1,0 +1,54 @@
+.banner{
+    height: 100%;
+    width: 100%;
+    background-image: url('../assets/images//banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    border-bottom: 1px solid #33A8DB;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+  }
+  .banner-content{
+    background-image: url(../assets/images/Background\ Gradient.png);
+    width: 100%;
+    padding-top: 56px;
+    padding-bottom: 5%;
+    
+    }
+  #logoCSS, .linha{
+    margin-bottom: 43px;
+  }
+  #logoCSS{
+    width: 248px;
+    height: 214px;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 100%;
+  }
+  .linha{
+    width: 510px;
+    color:white;
+    width: 792px;
+    height: 38px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;  
+  }
+  #trilha{
+    margin-bottom: 16px;
+  }
+  #register{
+    color:  #31A8DD;
+    font-weight: bold;
+    Font-size: 16px;
+    text-align: Center;
+    text-decoration: none;
+    text-transform:uppercase;
+    padding: 10px 50px;
+    border: 1px solid #31A8DD;
+    letter-spacing: 0.21em;
+  }
